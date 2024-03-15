@@ -15,7 +15,7 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2341', '2348021779696', '2347045035241','233533763772'] 
+global.mods = ['918770333268'] 
 global.prems = ['2347045035241','233208179431','233533763772']
 global.allowed = ['2348021779696', '2347045035241']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
