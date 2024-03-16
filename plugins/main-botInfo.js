@@ -64,7 +64,7 @@ let infobt = `
 channel/0029Va9wmuz8F2pGIURwmo0m
 │ ➫ *Status  :* ᎠᎬᏴႮᏀᏀᏆΝᏀ ᏟϴᎠᎬ._
 ┃ 
-┃© STAR-MD-V2 BY EXCEL
+┃© CASTLE BY EXCEL
 ⚡ *STATE* ⚡
 ➫ *${groupsIn.length}* GROUP CHATS
 ➫  *${groupsIn.length}* united groups

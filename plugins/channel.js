@@ -2,7 +2,7 @@ let handler = async m => m.reply(`
 
 ╭⭑⭑⭑★✪•••*ՏͲᎪᎡ*•••✪★⭑⭑⭑
 │ 📂 *BOT Name:* _ՏͲᎪᎡ-ᎷᎠ-Ꮩ2_
-│ 📝 *Description:* _I'm STAR-MD-V2. A  
+│ 📝 *Description:* _I'm CASTLE. A  
 ┃MultiDevice WhatsApp bot with rich features  ┃Created BY +2347045035241._
 │ 👤 *Owner:* _乇乂匚乇ㄥ_
 │ 🌐 *Channel:* https://whatsapp.com/channel

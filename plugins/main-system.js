@@ -64,8 +64,8 @@ let handler = async (m, { conn }) => {
  *✪  Author:*EXCEL AMADI* 😎
  *✪  Deploy:*${created_at} 
  *✪  Repo:*  ${html_url}
- *✪  Scan:*  https://replit.com/@HopeAmadi*/STAR-MD-V2-PAIR-CODE?s=app
- *✪ Visit For Help:* https://wa.me/+2347045035241
+ *✪  Scan:*  https://replit.com/PAIR-CODE?s=app
+ *✪ Visit For Help:* https://wa.me/+918770333268
   
 🔰 *ƈʀɛǟȶɛɖ ႦႸ Excel* 🔰
 
