@@ -46,22 +46,21 @@ let pp = await conn.profilePictureUrl(who, 'image').catch(_ => './STAR.jpg')
 let user = global.db.data.users[who]
   
 let infobt = `
-🌠 *ᏆΝҒϴ:-ՏͲᎪᎡ-ᎷᎠ-Ꮩ2* 🌠
+🌠 *ᏆΝҒϴ:-CASTLE* 🌠
 
 ╭───•••✧ᎠᎬᏙᎬᏞϴᏢᎬᎡ✧••••───╮
 ┃ *≡*. 
-│ ➫「 *ՏͲᎪᎡ-ᎷᎠ-Ꮩ2* 」
-│ ➫ *Name    :* Excel
-│ ➫ *Place   :* Nigeria
+│ ➫「 *CASTLE* 」
+│ ➫ *Name    :* 💫𝘿𝙚𝙫𝙖𝙣𝙨𝙝 𝙎𝙞𝙣𝙜𝙝🍁
+│ ➫ *Place   :* Jabalpur
 │ ➫ *Gender  :*  ᴍᴀʟᴇ
-│➫ *Age     :* _15
-│ ➫ *Phone   :* wa.me/2347045035241
+│➫ *Age     :* _19
+│ ➫ *Phone   :* wa.me/918770333268
 │ ➫ *TT      :*  https://tiktok.com
 /@xcelsama
 │ ➫ *GitHub  :* https://github.com/Xcelsama
 │ ➫ *TT *:- https://tiktok.com/@xcelsama
-│ ➫ *Channel* :https://whatsapp.com/
-channel/0029Va9wmuz8F2pGIURwmo0m
+│ ➫ *Channel* :https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h
 │ ➫ *Status  :* ᎠᎬᏴႮᏀᏀᏆΝᏀ ᏟϴᎠᎬ._
 ┃ 
 ┃© CASTLE BY EXCEL
