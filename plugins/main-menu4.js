@@ -61,7 +61,7 @@ import {
   ◈ .setppbotfull
   ◈ .getplugin <name file>
   ◈ .getfile <name file>
-  ◈ .join <chat.whatsapp.com> <dias>
+  ◈ .join
   ◈ .reset <54xxx>
   ◈ .resetprefix
   ◈ .restart
