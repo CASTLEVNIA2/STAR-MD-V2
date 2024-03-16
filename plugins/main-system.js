@@ -77,7 +77,7 @@ let handler = async (m, { conn }) => {
 ${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}
 `;
 
-    conn.sendMessage(m.chat, { video: { url: "https://i.imgur.com/JbMJS4T.mp4" }, caption: infobt, gifPlayback: true }, { quoted: m });
+    conn.sendMessage(m.chat, { video: { url: "https://i.imgur.com/BJImvTT.mp4" }, caption: infobt, gifPlayback: true }, { quoted: m });
   } catch (error) {
     console.error(error);
     throw 'Error fetching data from GitHub';
