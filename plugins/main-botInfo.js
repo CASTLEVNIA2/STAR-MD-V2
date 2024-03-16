@@ -46,19 +46,19 @@ let pp = await conn.profilePictureUrl(who, 'image').catch(_ => './STAR.jpg')
 let user = global.db.data.users[who]
   
 let infobt = `
-🌠 *ᏆΝҒϴ:-꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂* 🌠
+ *ᏆΝҒϴ:-꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂* 
 
 ╭───••••✧ᎠᎬᏙᎬᏞϴᏢᎬᎡ✧•••••───╮
 ┃ *≡*. 
 │ ➫「*•--»𝗔𝗨𝗥𝗢𝗥𝗔«--•* 」
-│ ➫ *Name    :* 💫𝘿𝙚𝙫𝙖𝙣𝙨𝙝 𝙎𝙞𝙣𝙜𝙝🍁
+│ ➫ *Name    :* 𝘿𝙚𝙫𝙖𝙣𝙨𝙝 𝙎𝙞𝙣𝙜𝙝💫
 │ ➫ *Place   :* Jabalpur
 │ ➫ *Gender  :*  ᴍᴀʟᴇ
 │➫ *Age     :* _19
 │ ➫ *Phone   :* wa.me/918770333268
 │ ➫ *TT      :*  https://tiktok.com
 /@Castlevnia2
-│ ➫ *GitHub  :* https://github.com/Castlevnia2
+│ ➫ *GitHub  :* https://github.com/Castlevnia1
 │ ➫ *TT *:- https://tiktok.com/@Castlevnia2
 │ ➫ *Channel* :https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h
 │ ➫ *Status  :* ᎠᎬᏴႮᏀᏀᏆΝᏀ ᏟϴᎠᎬ._
