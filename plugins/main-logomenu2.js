@@ -56,7 +56,7 @@ let infobt = `
   *❲❒❳ 
   *❲❒❳ 
   *❲❒❳ 
-🔰 *Created ʙʏ ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂* 🔰
+🔰 *Created ʙʏ ꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂* 🔰
 `
 
 conn.sendMessage(m.chat,{video : {url :"https://i.imgur.com/BJImvTT.mp4",}, caption:infobt,gifPlayback:true },{quoted:m})

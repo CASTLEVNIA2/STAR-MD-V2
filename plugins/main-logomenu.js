@@ -57,7 +57,7 @@ let str = ` *🌠*•-»𝗔𝗨𝗥𝗢𝗥𝗔«-•*🌠*
 │⬡▸
 │ *${usedPrefix}logo ғᴏʀ logo ᴄᴏᴍᴍᴀɴᴅs*
 │ Please *${greeting}*
-│  *MADE BY *꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂*
+│  *MADE BY *꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂*
 ╰━━━━━━━━━━━━━━━━━━╯
 📚 *_Quote of the day: ${quote}_* 📚
 `

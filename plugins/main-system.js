@@ -57,17 +57,17 @@ let handler = async (m, { conn }) => {
     let { stargazers_count, forks, owner, created_at, html_url } = repo_Data.data;
 
     let infobt = `
-🔰 *I'm ٭𝙰𝚄𝚁𝙾𝚁𝙰٭* *A WhatsApp Advanced bot with Rich Exciting features* *Created By ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂*. 🔰
+🔰 *I'm ٭𝙰𝚄𝚁𝙾𝚁𝙰٭* *A WhatsApp Advanced bot with Rich Exciting features* *Created By ꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂*. 🔰
 
  *✪  Stars:* ⭐stars ${stargazers_count} 
  *✪  Forks:* Forks 🍽 ${forks}  
- *✪  Author:*꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂* 😎
+ *✪  Author:*꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂* 😎
  *✪  Deploy:*${created_at} 
  *✪  Repo:*  ${html_url}
  *✪  Scan:*  https://replit.com/PAIR-CODE?s=app
  *✪ Visit For Help:* https://wa.me/+918770333268
   
-🔰 *ƈʀɛǟȶɛɖ ႦႸ ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂* 🔰
+🔰 *ƈʀɛǟȶɛɖ ႦႸ ꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂* 🔰
 
 *🕣 S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}

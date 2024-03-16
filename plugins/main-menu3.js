@@ -54,7 +54,7 @@ let str = ` *꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂*
 │🎩 ◦➛✫ - 「${usedPrefix}𝘓𝘰𝘨𝘰𝘮𝘦𝘯𝘶
 │ *${usedPrefix}list ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
 │ *${greeting}*
-│ *MADE BY ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂*
+│ *MADE BY ꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂*
 ╰━━━━━━━━━━━━━━━━━━╯
 📚 *_Quote of the day: ${quote}_* 📚
 `

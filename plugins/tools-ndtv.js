@@ -18,7 +18,7 @@ let handler = async (m, { conn }) => {
 
     let newsInfo = `•───── ୨❀୧ ─────•
     ❖ 𝑺𝑻𝑨𝑻𝑼𝑺: Online.... 
-    ㋡ 𝑪𝑹𝑬𝑨𝑻𝑶𝑹: ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂
+    ㋡ 𝑪𝑹𝑬𝑨𝑻𝑶𝑹: ꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂
     ☞ 𝑯𝑬𝑨𝑫𝑳𝑰𝑵𝑬: ${newsItem.headline}
     ${newsItem.description}
     🔗 𝑹𝑬𝑨𝑫 𝑴𝑶𝑹𝑬: ${newsItem.url}

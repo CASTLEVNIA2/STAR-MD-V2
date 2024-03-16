@@ -7,6 +7,6 @@ function handler(m) {
 
 handler.help = ['owner']
 handler.tags = ['main']
-handler.command = ['owner', 'creator', '꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂', 'dueño', '٭𝙰𝚄𝚁𝙾𝚁𝙰٭'] 
+handler.command = ['owner', 'creator', '꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂', 'dueño', '٭𝙰𝚄𝚁𝙾𝚁𝙰٭'] 
 
 export default handler

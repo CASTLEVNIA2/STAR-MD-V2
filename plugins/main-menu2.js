@@ -42,7 +42,7 @@ let str = `
 🌠 *_quote of the day: ${quote}_* 🌠
 
 ┏━━🤖 _BOT STATUS:_🤖━━┓
-┃ 🏮  *Creator:* ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂
+┃ 🏮  *Creator:* ꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂
 ┃ 🤡  *Bot Name:* ${botname} 
 ┃ 💻  *Host:* Linux Lair
 ┃ 📣  *Prefix:* ${usedPrefix} 
