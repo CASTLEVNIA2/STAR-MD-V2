@@ -57,13 +57,13 @@ let infobt = `
 │➫ *Age     :* _19
 │ ➫ *Phone   :* wa.me/918770333268
 │ ➫ *TT      :*  https://tiktok.com
-/@xcelsama
-│ ➫ *GitHub  :* https://github.com/Xcelsama
-│ ➫ *TT *:- https://tiktok.com/@xcelsama
+/@Castlevnia2
+│ ➫ *GitHub  :* https://github.com/Castlevnia2
+│ ➫ *TT *:- https://tiktok.com/@Castlevnia2
 │ ➫ *Channel* :https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h
 │ ➫ *Status  :* ᎠᎬᏴႮᏀᏀᏆΝᏀ ᏟϴᎠᎬ._
 ┃ 
-┃© CASTLE BY EXCEL
+┃© CASTLE BY ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂
 ⚡ *STATE* ⚡
 ➫ *${groupsIn.length}* GROUP CHATS
 ➫  *${groupsIn.length}* united groups

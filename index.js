@@ -23,7 +23,7 @@ say("STAR - V2", {
   'maxLength': '15'
 });
 
-say("STAR-BOT-V2 By Excel._.", {
+say("꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂ By ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂._.", {
   'font': "chrome",
   'align': "center",
   'colors': ["red", "magenta"],

@@ -217,7 +217,7 @@ NB: _YOU ENABLE IT BY TYPING :EXAMPLE_= #on welcome etc
 _________________________
 🔰 *antilink* :_For automatic kicking of members who send gc links_ 
 _________________________
-🔰 *hidden*:_only Excel can use this_📡
+🔰 *hidden*:_only ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂ can use this_📡
 _________________________
 🔰  *autosticker* :_Automatically sends stickers if you send picture in gc_
 _________________________

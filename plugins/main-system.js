@@ -53,21 +53,21 @@ let handler = async (m, { conn }) => {
   let user = global.db.data.users[who];
 
   try {
-    let repo_Data = await axios.get('https://api.github.com/repos/Xcelsama/STAR-MD-V2');
+    let repo_Data = await axios.get('https://api.github.com/repos/Castlevnia2/STAR-MD-V2');
     let { stargazers_count, forks, owner, created_at, html_url } = repo_Data.data;
 
     let infobt = `
-🔰 *I'm STAR-V2.* *A WhatsApp Advanced bot with Rich Exciting features* *Created By Excel*. 🔰
+🔰 *I'm STAR-V2.* *A WhatsApp Advanced bot with Rich Exciting features* *Created By ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂*. 🔰
 
  *✪  Stars:* ⭐stars ${stargazers_count} 
  *✪  Forks:* Forks 🍽 ${forks}  
- *✪  Author:*EXCEL AMADI* 😎
+ *✪  Author:*꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂* 😎
  *✪  Deploy:*${created_at} 
  *✪  Repo:*  ${html_url}
  *✪  Scan:*  https://replit.com/PAIR-CODE?s=app
  *✪ Visit For Help:* https://wa.me/+918770333268
   
-🔰 *ƈʀɛǟȶɛɖ ႦႸ Excel* 🔰
+🔰 *ƈʀɛǟȶɛɖ ႦႸ ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂* 🔰
 
 *🕣 S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
