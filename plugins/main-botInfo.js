@@ -46,7 +46,7 @@ let pp = await conn.profilePictureUrl(who, 'image').catch(_ => './STAR.jpg')
 let user = global.db.data.users[who]
   
 let infobt = `
-🌠 *ᏆΝҒϴ:-CASTLE* 🌠
+🌠 *ᏆΝҒϴ:-꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂* 🌠
 
 ╭───•••✧ᎠᎬᏙᎬᏞϴᏢᎬᎡ✧••••───╮
 ┃ *≡*. 
@@ -63,7 +63,8 @@ let infobt = `
 │ ➫ *Channel* :https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h
 │ ➫ *Status  :* ᎠᎬᏴႮᏀᏀᏆΝᏀ ᏟϴᎠᎬ._
 ┃ 
-┃© CASTLE BY ꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂
+┃© 🅐🅤🅡🅞🅡🅐 BY 𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑
+
 ⚡ *STATE* ⚡
 ➫ *${groupsIn.length}* GROUP CHATS
 ➫  *${groupsIn.length}* united groups
