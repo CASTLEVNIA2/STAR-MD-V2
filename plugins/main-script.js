@@ -23,11 +23,12 @@ let handler = async function (m, { conn, __dirname }) {
 ⭐ *ՏͲᎪᎡՏ:* _${repoData.stargazers_count}_ 
 🍴 *ҒϴᎡᏦՏ:* _${repoData.forks_count}_   
 🔍 *ᎦᏟᎪΝ-ϘᎡ:*https://session.guruapi.tech/
-⚔️ *ᘜᖇOᑌᑭ:* https://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs
-📡 *ᑭᑌᗷᒪIᑕ ᏀᖇOᑌᑭ:* https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK
-💻 *ᑕᕼᗩᑎᑎᗴᒪ ᒪIᑎK:* https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m 
+⚔️ *ᘜᖇOᑌᑭ:* https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h
+📡 *ᑭᑌᗷᒪIᑕ ᏀᖇOᑌᑭ:* https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h
+💻 *ᑕᕼᗩᑎᑎᗴᒪ ᒪIᑎK:* https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h
+ 
 🌐 *ႮᎡᏞ:* ${repoData.html_url}
-🌠 *ΝϴᏔ ᎠᎬᏢᏞϴᎽ*:-https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-MD-V2' 
+🌠 *ΝϴᏔ ᎠᎬᏢᏞϴᎽ*:-https://dashboard.heroku.com/new?template=https://github.com/Castlevnia1' 
 
  `.trim();
 
