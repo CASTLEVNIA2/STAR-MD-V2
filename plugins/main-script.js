@@ -3,7 +3,7 @@ import { join } from 'path';
 import axios from 'axios'; 
 
 let handler = async function (m, { conn, __dirname }) {
-  const githubRepoURL = 'https://github.com/Castlevnia2/STAR-MD-V2';
+  const githubRepoURL = 'https://github.com/*•-»𝗔𝗨𝗥𝗢𝗥𝗔«-•*vnia2/STAR-MD-V2';
 
   try {
   

@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'CASTLE'
+global.botname = '*•-»𝗔𝗨𝗥𝗢𝗥𝗔«-•*'
 global.premium = 'true'
-global.packname = 'CASTLE' 
+global.packname = '*•-»𝗔𝗨𝗥𝗢𝗥𝗔«-•*' 
 global.author = '@꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂' 
 global.menuvid = 'https://i.imgmp4ur.com/M8y3VcJ.'
 global.igfg = '▢✓ Follow My channel\nhttps://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h\n' 

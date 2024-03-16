@@ -48,9 +48,9 @@ let user = global.db.data.users[who]
 let infobt = `
 🌠 *ᏆΝҒϴ:-꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂* 🌠
 
-╭───•••✧ᎠᎬᏙᎬᏞϴᏢᎬᎡ✧••••───╮
+╭───••••✧ᎠᎬᏙᎬᏞϴᏢᎬᎡ✧•••••───╮
 ┃ *≡*. 
-│ ➫「 *CASTLE* 」
+│ ➫「*•--»𝗔𝗨𝗥𝗢𝗥𝗔«--•* 」
 │ ➫ *Name    :* 💫𝘿𝙚𝙫𝙖𝙣𝙨𝙝 𝙎𝙞𝙣𝙜𝙝🍁
 │ ➫ *Place   :* Jabalpur
 │ ➫ *Gender  :*  ᴍᴀʟᴇ
@@ -62,9 +62,7 @@ let infobt = `
 │ ➫ *TT *:- https://tiktok.com/@Castlevnia2
 │ ➫ *Channel* :https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h
 │ ➫ *Status  :* ᎠᎬᏴႮᏀᏀᏆΝᏀ ᏟϴᎠᎬ._
-┃ 
-┃© 🅐🅤🅡🅞🅡🅐 BY 𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑
-
+┃ © 𝐀𝐮𝐫𝐨𝐫𝐚 𝐁𝐲 𝐃𝐞𝐯𝐚𝐧𝐬𝐡
 ⚡ *STATE* ⚡
 ➫ *${groupsIn.length}* GROUP CHATS
 ➫  *${groupsIn.length}* united groups
