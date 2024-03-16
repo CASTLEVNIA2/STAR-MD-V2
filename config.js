@@ -7,7 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918770333268', '꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂', true], 
+  ['918770333268', '𝙳𝚎𝚟𝚊𝚗𝚜𝚑 ', true],   
+  ['918770333268', 'CASTLEVNIA', true], 
+  ['919179575433', '𝙳𝚎𝚟𝚊𝚗𝚜𝚑', true], 
 
 ] //Number of owners
 
@@ -52,8 +54,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '*•-»𝗔𝗨𝗥𝗢𝗥𝗔«-•*'
 global.premium = 'true'
-global.packname = '*•-»𝗔𝗨𝗥𝗢𝗥𝗔«-•*' 
-global.author = '@꧁•⊹٭𝙳𝚎𝚟𝚊𝚗𝚜𝚑 𝚂𝚒𝚗𝚐𝚑٭⊹•꧂' 
+global.packname = '*•»+918770333268«•*' 
+global.author = '꧁💫𝙳𝚎𝚟𝚊𝚗𝚜𝚑✨꧂' 
 global.menuvid = 'https://i.imgur.com/M8y3VcJ.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h\n' 
 global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h\n'
