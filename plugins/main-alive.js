@@ -24,7 +24,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
           title: "THE STAR-V2 IS ALIVE 🌟",
           body: "STAR-MD",
           thumbnailUrl: img,
-          sourceUrl: 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK',
+          sourceUrl: 'https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h',
           mediaType: 1,
           renderLargerThumbnail: true
           }}

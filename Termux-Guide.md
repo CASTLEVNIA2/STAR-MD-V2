@@ -12,7 +12,7 @@
 
  Run the following commands to clone the repo (Use your fork)
  ```SH
-> git clone  https://github.com/Xcelsama/STAR-MD-V2
+> git clone  https://github.com/Castlevnia1/STAR-MD-V2
 > cd STAR-MD-V2
  ```
 

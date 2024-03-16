@@ -579,7 +579,7 @@ export async function participantsUpdate({
                         title: "STAR-V2",
                         body: "welcome to our Group",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK',
+                        sourceUrl: 'https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -632,7 +632,7 @@ export async function participantsUpdate({
                         title: "STAR-V2 BOT",
                         body: "Goodbye from our Group",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK',
+                        sourceUrl: 'https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
