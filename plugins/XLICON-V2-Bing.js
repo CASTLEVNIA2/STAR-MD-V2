@@ -13,7 +13,7 @@ let handler = async (message, {
   if (!inputText && message.quoted && message.quoted.text) {
     inputText = message.quoted.text;
   }
-  message.reply("Waiting Response from STAR-V2 Bot server...");
+  message.reply("Waiting Response from 🅐🅤🅡🅞🅡🅐 Bot server...");
   message.react('🌠');
   const encodedText = encodeURIComponent(inputText);
   let response = await Bing(encodedText);

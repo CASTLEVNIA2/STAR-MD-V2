@@ -12,7 +12,7 @@ import cfonts from 'cfonts';
 
 const { say } =  cfonts;
 
-say("STAR - V2", {
+say("꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂", {
   'font': "block",
   'align': "center",
   'colors': ['#ff9900'],

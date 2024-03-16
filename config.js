@@ -64,7 +64,7 @@ global.fglog = 'STAR.jpg'
 global.thumb = fs.readFileSync('./STAR.jpg')
 
 
-global.wait = '*🕣 _STAR IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _🅐🅤🅡🅞🅡🅐 IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '🔜'
 global.dmoji = '⚡'
 global.done = '☑️'

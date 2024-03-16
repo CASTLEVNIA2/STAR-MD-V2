@@ -31,7 +31,7 @@ let handler = async (m, { text, usedPrefix, command }) => {
 
             // Write the Gist file content to the plugin file
             await fs.promises.writeFile(pluginPath, file.content);
-            m.reply(`successfully installed the plugin to STAR-MD`);
+            m.reply(`successfully installed the plugin to ٭𝙰𝚄𝚁𝙾𝚁𝙰٭`);
         }
     } catch (error) {
         throw `Error fetching or saving the plugin: ${error.message}`;

@@ -21,8 +21,8 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "THE STAR-V2 IS ALIVE 🌟",
-          body: "STAR-MD",
+          title: "꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂ IS ALIVE 🌟",
+          body: "🅐🅤🅡🅞🅡🅐",
           thumbnailUrl: img,
           sourceUrl: 'https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h',
           mediaType: 1,

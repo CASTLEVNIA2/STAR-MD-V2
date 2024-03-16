@@ -8,11 +8,11 @@ const handler = async (m, {
     args,
     usedPrefix
 }) => {
-    if (!text) throw `give a text to search Example: *${usedPrefix + command}* STAR-v2 bot`;
+    if (!text) throw `give a text to search Example: *${usedPrefix + command}* 🅐🅤🅡🅞🅡🅐`;
     conn.gogleit = conn.gogleit ? conn.gogleit : {};
     await conn.reply(m.chat, wait, m);
     const result = await googleresult(text);
-    const infoText = `✦ ──『 *STAR GOOGLE SEARCH* 』── ⚝ \n\n [ ⭐ Reply the number of the desired search result to get the screenshot of the website]. \n\n`
+    const infoText = `✦ ──『 *🅐🅤🅡🅞🅡🅐 GOOGLE SEARCH* 』── ⚝ \n\n [ ⭐ Reply the number of the desired search result to get the screenshot of the website]. \n\n`
     ;
     
 

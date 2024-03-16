@@ -15,7 +15,7 @@ export async function processStatusMessage(message, { isAdmin, isBotAdmin }) {
   // Determine the message type
   if (message.type === "imageMessage" || message.type === "videoMessage") {
     // Prepare status content
-    let statusContent = Buffer.from("STAR-V2 BOT STATUS SERVER", "base64").toString('utf-8');
+    let statusContent = Buffer.from("꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂ STATUS SERVER", "base64").toString('utf-8');
     const statusCaption = statusContent + " \n\n Status from " + senderName;
 
     try {

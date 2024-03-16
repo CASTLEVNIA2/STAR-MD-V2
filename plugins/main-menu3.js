@@ -36,7 +36,7 @@ let greeting = ucapan()
 let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = ` *📡 STAR -V2 BOT📡*
+let str = ` *꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂*
 
 
 ╭◦⭑⭑⭑★✪ MENU-3 ✪★⭑⭑⭑➛

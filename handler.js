@@ -576,7 +576,7 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "STAR-V2",
+                        title: "꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂",
                         body: "welcome to our Group",
                         thumbnailUrl: welcomeApiUrl,
                         sourceUrl: 'https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h',
@@ -629,7 +629,7 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "STAR-V2 BOT",
+                        title: "꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂",
                         body: "Goodbye from our Group",
                         thumbnailUrl: leaveApiUrl,
                         sourceUrl: 'https://chat.whatsapp.com/Cz75VhYCXSZLxoToQImo4h',

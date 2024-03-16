@@ -244,8 +244,8 @@ _________________________
 _________________________
 🔰 *autobio* : _enables  automatic bio of the bot also you will see that bot is running through this_
 _________________________
-__S_T_A_R_M_D_____BOT
-*STAR-V2* enc-x
+__꧁•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹•꧂
+*🅐🅤🅡🅞🅡🅐* enc-x
 ╰──────────©
 *📌 Example :*
 *${usedPrefix}on* welcome

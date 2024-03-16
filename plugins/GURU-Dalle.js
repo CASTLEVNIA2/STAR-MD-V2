@@ -5,7 +5,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
      
 try {
-    m.reply('*Please wait,STAR is enerating images...*');
+    m.reply('*Please wait,•⊹٭𝙰𝚄𝚁𝙾𝚁𝙰٭⊹• is enerating images...*');
 
     const endpoint = `https://gurugpt.cyclic.app/dalle?prompt=${encodeURIComponent(text)}`;
     const endpoint = `https://cute-tan-gorilla-yoke.cyclic.app/imagine?text=${encodeURIComponent(text)}`;
